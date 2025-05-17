@@ -1,20 +1,20 @@
 /* Header
 --------------------------------------------------
 
-Natasha.
+YangHE. Resume
 
-Home
-About
-Skills
+首页
+关于
+技能
 Services
-Portfolio
-Blog
-Contact
+项目
+博客
+联系
 
-/* Home
+/* 首页
 --------------------------------------------------
 
-I Am <span class="home__name">Natasha</span><br>
+我是<span class="home__name">贺洋</span><br>
 UI/UX Designer<br>
 & Developer
 
